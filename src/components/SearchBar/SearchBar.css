@@ -1,0 +1,24 @@
+.searchbar{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+    align-items: center;
+}
+
+.thumbnail{
+    height: 70px;
+}
+
+.search{
+    height: 25px;
+    width: 250px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+}
+
+.nav-icons{
+    width: 180px;
+    height: 60px;
+}

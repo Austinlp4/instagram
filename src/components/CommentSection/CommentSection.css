@@ -1,0 +1,16 @@
+.comment-area{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.comment{
+    justify-self: flex-start;
+    margin: 1% 0;
+    text-align: left;
+    font-size: 1rem;
+    
+}
+
+.username{
+    margin: 0 2% 0 0;
+}
