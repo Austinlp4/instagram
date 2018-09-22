@@ -24,4 +24,4 @@ const Post = (props) => {
    );
 }
 
-export default Post;
+export default Post; jfasdkfj
